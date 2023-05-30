@@ -2,5 +2,5 @@
 echoschool
 =======
 #!/bin/bash 
-echo "School"
+echo "The school is open!"
 >>>>>>> d92c868602e20b58e567110a55f745cf12e995ad
