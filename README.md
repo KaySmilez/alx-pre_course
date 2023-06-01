@@ -1,2 +1,1 @@
-Hello, Keneilwe
-Prroject: alx-pre_course
+i am a Software Engineer
